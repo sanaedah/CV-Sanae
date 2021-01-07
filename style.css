@@ -1,0 +1,198 @@
+/*/body{
+    font-family: 'segeo UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+main{
+    box-shadow: 30 px 0 px 40 px rgb(196, 196, 196), -30 px 0px 40px rgb(196, 196, 196);
+    margin: auto;
+    max-width: 900px;
+}
+.srkl{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    background-color: #fff;
+    width: 100%;
+}
+header{
+    height: 160 px;
+    padding-top: 10px;
+    color: white;
+    background-color: #333;
+}
+.photo{
+    margin-left: 7px;
+    border-radius: 50%;
+    width: 130 px;
+    height: 130px;
+    overflow: hidden;
+}
+.des{
+    margin-left: 25%;
+    margin-top: 10%;
+}
+h3{
+    color: #13c3ba;
+    font-weight: bold;
+    letter-spacing: 1rem;
+}
+.right{
+    margin: 5px;
+    padding: 0;
+    margin-top: -10%;
+}
+.right p{
+    margin-left: 600px;
+    letter-spacing: 1rem;
+}
+.info{
+    width: 20 px;
+    height: 20 px;
+}
+.section-left{
+    background-color: #fff;
+    float: left;
+    width: 400px;
+}
+.section-right{
+    background-color: #fff;
+    float: right;
+    width: 400px;
+}
+h4{
+    margin-left: 10%;
+    color: #13c3ba;
+    letter-spacing: 1rem;
+    font-size: 18px;
+}
+hr .light{
+    border-top: 2px solid #13c3ba;
+    width: 90%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+.atouts{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 10%;
+}
+.div{
+    margin-left: 10%;
+}
+.skls{
+    padding: 0;
+    width: 40%;
+    margin-left: 10%;
+}
+.cool{
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px ;
+    height: 7px;
+}
+.po{
+    margin-top: 20px;
+}
+.inner{
+    height: 100%;
+    background-color: orange;
+}
+.interet{
+    margin-left: 10%;
+    
+}*/
+ .icon i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.icon i p{
+
+    
+} 
+.icon  {
+    width: 30px;
+    height: 30px;
+    background: #fff;
+    color: #0f9ed1;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    
+    flex-direction:row;
+    text-align: right;
+    margin-right: px;
+}
+.container .col-md-3 .row .col-lg-9 .col-sm-12{
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    font-size: medium;
+    color: rgb(9, 88, 110);
+}
+.container .row .col-md-3 .row .col-lg-9 .col-lg-12 {
+    color: rgb(61, 27, 93);
+    margin-top: 10px;
+    margin: 40px;
+    text-align: center;    
+}
+header{
+    width: 60px;
+    height: 60px;
+    box-shadow: 6px 10px 20px rgb(15, 39, 62);
+    border-radius: 60px / 40px;
+    background: rgb(124, 169, 214);
+    color: rgb(222, 223, 165);
+    text-shadow: 6px 6px 10px rgb(15, 35, 64);
+    margin: 10px;
+   
+}
+ .col-md-3{
+    font-size: 15px;
+    background-color: rgb(194, 144, 228) ;
+    border-radius: 20px;
+    box-shadow: 6px 10px 20px rgb(153, 114, 179);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.col-md-9{
+    font-size: 20px;
+
+}
+main{
+    background-color: rgb(211, 189, 209) ;
+    border-radius: 5%;  
+}
+h4 {
+    color: rgb(213, 207, 220);
+    background-color: rgb(138, 121, 155);
+    border-radius: 30%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+}
+
+#hobby .col-md-12 ul{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+#hobby .col-md-12 ul li{
+    width: 100px;
+    height: 100px;
+    border:  solid #600bf4;
+    border-radius: 50%;
+    position: relative;
+    color: #8f75d0;
+}
+#hobby .col-md-12 ul li i{
+    font-size: 40px;
+    margin-top: 20px;
+}
+.light{
+    color: rgb(23, 177, 220);
+    border-top: 5px solid
+}
