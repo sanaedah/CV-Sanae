@@ -111,14 +111,11 @@ hr .light{
     width: 30px;
     height: 30px;
     background: #fff;
-    color: #0f9ed1;
+    color: #0e171b;
     border-radius: 50%;
     position: relative;
     display: flex;
-    
-    flex-direction:row;
-    text-align: right;
-    margin-right: px;
+    flex-direction:column;
 }
 .container .col-md-3 .row .col-lg-9 .col-sm-12{
     display: flex;
