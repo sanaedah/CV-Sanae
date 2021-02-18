@@ -110,12 +110,13 @@ hr .light{
 .icon  {
     width: 30px;
     height: 30px;
-    background: #fff;
+    background: rgb(255, 255, 255);
     color: #0e171b;
     border-radius: 50%;
     position: relative;
     display: flex;
     flex-direction:column;
+    margin-top: 30px;
 }
 .container .col-md-3 .row .col-lg-9 .col-sm-12{
     display: flex;
@@ -135,38 +136,42 @@ header{
     height: 60px;
     box-shadow: 6px 10px 20px rgb(15, 39, 62);
     border-radius: 60px / 40px;
-    background: rgb(124, 169, 214);
-    color: rgb(222, 223, 165);
-    text-shadow: 6px 6px 10px rgb(15, 35, 64);
-    margin: 10px;
-   
+    background:  rgb(55, 79, 135);
+    color: rgb(222, 221, 233);
+    box-shadow: 6px 6px 2px rgb(52, 198, 238);
+    margin: 10px; 
 }
  .col-md-3{
     font-size: 15px;
-    background-color: rgb(194, 144, 228) ;
+    color: aliceblue;
+    background-color: rgb(55, 79, 135) ;
     border-radius: 20px;
-    box-shadow: 6px 10px 20px rgb(153, 114, 179);
+    box-shadow: 6px 10px 2px rgb(52, 198, 238);
     display: flex;
     justify-content: center;
     text-align: center;
-
 }
 .col-md-9{
     font-size: 20px;
-
 }
 main{
-    background-color: rgb(211, 189, 209) ;
+    background-color: white ;
     border-radius: 5%;  
 }
 h4 {
-    color: rgb(213, 207, 220);
-    background-color: rgb(138, 121, 155);
+    color:white;
+    height: 50px;
+    background-color:  rgb(138, 121, 155);
     border-radius: 30%;
     display: flex;
     justify-content: center;
     text-align: center;
     margin: 30px;
+    font-weight: bold;
+}
+.barre{
+    background-color: rgb(138, 121, 155);
+
 }
 
 #hobby .col-md-12 ul{
@@ -187,6 +192,47 @@ h4 {
     margin-top: 20px;
 }
 .light{
-    color: rgb(23, 177, 220);
+    color :rgb(52, 198, 238);
     border-top: 5px solid
+}
+.exp{
+    margin-left: 20px;
+}
+.margin{
+    margin-top: 150px;
+
+}
+.texte{
+    font-size: 23px;
+}
+.contact{
+    font-size: 15px;
+    color: aliceblue;
+    width: 300px;
+    font-weight: bold;
+    text-align: center;  
+}
+.ml-1{
+    margin-left: 10px;
+}
+.mt{
+    margin-top: 100px;
+}
+.mt p {
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.liste{
+    margin-top: 50px;
+    font-size: 18px;
+}
+
+.liste li{
+    list-style-type: inherit; 
+    padding-left: 0px;
+    text-align: left;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
 }
